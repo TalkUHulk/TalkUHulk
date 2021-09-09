@@ -1,4 +1,43 @@
-### Hi there 👋
+### Hulk Wang--浩克 🐸
+
+![](https://raw.githubusercontent.com/TalkUHulk/TalkUHulk.github.io/main/images/about_small.gif)
+
+### Hi👋, 我是一名CV算法工程师，目前就职于北京某互联网公司，热爱学习有趣的技术💻，喜欢运动⚽🏀🎮，希望能认识到更多有趣的朋友，学习到各种好玩的技术～❤️‍🔥<br><br>
+
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+
+
+### Technologies
+
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) 
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)  
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+
+
+### Socials
+
+[![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-TalkU%E6%B5%A9%E5%85%8B-blue)](https://www.zhihu.com/people/MisterAntebellum)
+[![微博](https://img.shields.io/badge/%E5%BE%AE%E5%8D%9A-TalkU%E6%B5%A9%E5%85%8B-red)](https://weibo.com/311127773)
+[![GitHub](https://img.shields.io/badge/GitHub-TalkUHulk-black)](https://github.com/TalkUHulk)
+[![CSDN](https://img.shields.io/badge/CSDN-TalkU%E6%B5%A9%E5%85%8B-red)](https://blog.csdn.net/hyqwmxsh)
+
+
+<a href="https://github.com/TalkUHulk/realworld-stylegan2-encoder"><img width="380px" height="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=TalkUHulk&repo=realworld-stylegan2-encoder&cache_seconds=10&theme=default" alt="" /></a>
+<a href="https://github.com/TalkUHulk/HulkFakeFace-pytorch"><img width="380px" height="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=TalkUHulk&repo=HulkFakeFace-pytorch&cache_seconds=10&theme=default" alt="" /></a>
+<a href="https://github.com/TalkUHulk/emotion_classification"><img width="380px"  height="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=TalkUHulk&repo=emotion_classification&cache_seconds=10&theme=default" alt="" /></a>
+<a href="https://github.com/TalkUHulk/MultiStyleTransfer"><img width="380px" height="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=TalkUHulk&repo=MultiStyleTransfer&cache_seconds=10&theme=default" alt="" /></a>
+<a href="https://github.com/TalkUHulk/weChatAutoReply"><img width="380px" height="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=TalkUHulk&repo=weChatAutoReply&cache_seconds=10&theme=default" alt="" /></a>
+<a href="https://github.com/TalkUHulk/PixelDTGan-pytorch"><img width="380px" height="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=TalkUHulk&repo=PixelDTGan-pytorch&cache_seconds=10&theme=default" alt="" /></a>
+<br>
+<br>
+
+
+<a href="https://github.com/TalkUHulk"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=talkuhulk&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talkuhulk&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 <!--
 **TalkUHulk/TalkUHulk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
