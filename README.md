@@ -21,7 +21,7 @@
 
 ### Socials
 
-[![Blog](https://img.shields.io/badge/HulkShow-Blog-green)](http://www.hulk.show/)
+[![Blog](https://img.shields.io/badge/Blog-www.hulk.show-green)](http://www.hulk.show/)
 [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-TalkU%E6%B5%A9%E5%85%8B-blue)](https://www.zhihu.com/people/MisterAntebellum)
 [![微博](https://img.shields.io/badge/%E5%BE%AE%E5%8D%9A-TalkU%E6%B5%A9%E5%85%8B-red)](https://weibo.com/311127773)
 [![GitHub](https://img.shields.io/badge/GitHub-TalkUHulk-black)](https://github.com/TalkUHulk)
