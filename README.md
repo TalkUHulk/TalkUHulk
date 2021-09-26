@@ -1,8 +1,10 @@
-### Hulk Wang--浩克 🐸
+###  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)  Hulk Wang--浩克 🐸
 
 ![](https://raw.githubusercontent.com/TalkUHulk/TalkUHulk.github.io/main/images/about_small.gif)
 
 ### Hi👋, 我是一名CV算法工程师，目前就职于北京某互联网公司，热爱学习有趣的技术💻，喜欢运动⚽🏀🎮，希望能认识到更多有趣的朋友，学习到各种好玩的技术～❤️‍🔥<br><br>
+
+
 
 ### Languages
 
@@ -41,6 +43,10 @@
 
 
 <a href="https://github.com/TalkUHulk"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=talkuhulk&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talkuhulk&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=TalkUHulk&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <!--
 **TalkUHulk/TalkUHulk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
