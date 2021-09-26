@@ -28,14 +28,16 @@
 [![CSDN](https://img.shields.io/badge/CSDN-TalkU%E6%B5%A9%E5%85%8B-red)](https://blog.csdn.net/hyqwmxsh)
 
 
-<a href="https://github.com/TalkUHulk/realworld-stylegan2-encoder"><img width="380px" height="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=TalkUHulk&repo=realworld-stylegan2-encoder&cache_seconds=10&theme=default" alt="" /></a>
-<a href="https://github.com/TalkUHulk/HulkFakeFace-pytorch"><img width="380px" height="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=TalkUHulk&repo=HulkFakeFace-pytorch&cache_seconds=10&theme=default" alt="" /></a>
-<a href="https://github.com/TalkUHulk/emotion_classification"><img width="380px"  height="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=TalkUHulk&repo=emotion_classification&cache_seconds=10&theme=default" alt="" /></a>
-<a href="https://github.com/TalkUHulk/MultiStyleTransfer"><img width="380px" height="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=TalkUHulk&repo=MultiStyleTransfer&cache_seconds=10&theme=default" alt="" /></a>
-<a href="https://github.com/TalkUHulk/weChatAutoReply"><img width="380px" height="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=TalkUHulk&repo=weChatAutoReply&cache_seconds=10&theme=default" alt="" /></a>
-<a href="https://github.com/TalkUHulk/PixelDTGan-pytorch"><img width="380px" height="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=TalkUHulk&repo=PixelDTGan-pytorch&cache_seconds=10&theme=default" alt="" /></a>
+<a href="https://github.com/TalkUHulk/realworld-stylegan2-encoder"><img width="380px" height="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=TalkUHulk&repo=realworld-stylegan2-encoder&cache_seconds=10&theme=highcontrast" alt="" /></a>
+<a href="https://github.com/TalkUHulk/HulkFakeFace-pytorch"><img width="380px" height="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=TalkUHulk&repo=HulkFakeFace-pytorch&cache_seconds=10&theme=radical" alt="" /></a>
+<a href="https://github.com/TalkUHulk/emotion_classification"><img width="380px"  height="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=TalkUHulk&repo=emotion_classification&cache_seconds=10&theme=merko" alt="" /></a>
+<a href="https://github.com/TalkUHulk/MultiStyleTransfer"><img width="380px" height="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=TalkUHulk&repo=MultiStyleTransfer&cache_seconds=10&theme=gruvbox" alt="" /></a>
+<a href="https://github.com/TalkUHulk/weChatAutoReply"><img width="380px" height="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=TalkUHulk&repo=weChatAutoReply&cache_seconds=10&theme=tokyonight" alt="" /></a>
+<a href="https://github.com/TalkUHulk/PixelDTGan-pytorch"><img width="380px" height="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=TalkUHulk&repo=PixelDTGan-pytorch&cache_seconds=10&theme=cobalt" alt="" /></a>
 <br>
 <br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalkUHulk&layout=compact&theme=dark)](https://github.com/TalkUHulk)
 
 
 <a href="https://github.com/TalkUHulk"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=talkuhulk&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talkuhulk&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
