@@ -1,4 +1,5 @@
-###  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)  
+![Visitor Count](https://profile-counter.glitch.me/TalkUHulk/count.svg)
+
 ### Hulk Wang--浩克 🐸
 
 ![](https://raw.githubusercontent.com/TalkUHulk/TalkUHulk.github.io/main/images/about_small.gif)
